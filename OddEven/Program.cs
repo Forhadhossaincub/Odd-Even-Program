@@ -12,7 +12,7 @@ namespace OddEven
         {
             Console.WriteLine("Odd Even Program");
 
-            Console.Write("Enter a intergernumber : ");
+            Console.Write("Enter a interger Number : ");
 
             int num = int.Parse(Console.ReadLine());
 
